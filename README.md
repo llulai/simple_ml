@@ -5,6 +5,8 @@ Implementation of ML Algorithms for educational purposes
 
 ## supervised
 - linear regression
+    - ridge regression
+    - lasso regression
 - perceptron algorithm
 - decision tree
 - naive bayes
