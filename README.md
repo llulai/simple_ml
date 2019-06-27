@@ -3,19 +3,22 @@ Implementation of ML Algorithms for educational purposes
 
 # list of algorithms
 
-## supervised
 - linear regression
-    - ridge regression
-    - lasso regression
-- perceptron algorithm
-- decision tree
-- naive bayes
-- support vector machines
+- ridge regression
+- lasso regression
 - logistic regression
-
-## unsupervised
+- perceptron
+- softmax regression
+- gaussian discriminant analysis
+- naive bayes
+- decision trees
+- bagging
+- random forest
+- boosting
+- maximal margin classifier
+- support vector classifier
+- support vector machines
 - k-means
-- hierarchical clustering
-- density clustering
 - gaussian mixture models
+- density clustering
 - pca
